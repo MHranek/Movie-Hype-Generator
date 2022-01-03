@@ -20,11 +20,11 @@ Open in browser.  https://ajread13.github.io/Movie-Hype-Generator/
 ![screenshot infopage](assets/images/movieInfoPage.png)
 ![screenshot QR-Code](assets/images/QRcode.png)
 ## Credits
-Tina Stanczyk & Michael Hranek
+Tina Stanczyk & Andrew Read
 ## License
 MIT License
 
-Copyright (c) [2021] "Andrew J Read"
+Copyright (c) [2021] "Michael Hranek"
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
